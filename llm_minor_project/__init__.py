@@ -1,0 +1,2 @@
+from llm_minor_project.models.model import MyNeuralNet
+from llm_minor_project.predict_model import predict
