@@ -182,3 +182,5 @@ data
 
 ### Not include dockerfiles
 dockerfiles
+
+constants.py
